@@ -1,0 +1,21 @@
+Dataset Details:
+
+ The project uses the Students Social Media Addiction Dataset, which aims to understand the behavioral patterns and lifestyle factors associated with social media overuse among students.
+It contains responses collected through a structured survey targeting student habits, psychological states, and online behavior patterns. The dataset is designed to help predict or analyze social media addiction tendencies.
+
+Each entry includes various attributes such as:
+• Age
+• Gender
+• Education Level
+• Time Spent on Social Media
+• Frequency of Social Media Use
+• Emotional Responses (e.g., loneliness, anxiety, depression)
+• Lifestyle Indicators (e.g., sleep quality, physical activity)
+• Addiction Label (target variable)
+
+This results in:
+⦁ Students Social Media Addiction.csv: Contains a total of 300 entries and 27 columns, including both categorical and numerical features relevant to mental health and social media behavior.
+
+Total: 300 survey responses labeled for addiction status (binary classification: addicted vs. not addicted)
+
+Dataset Link: https://www.kaggle.com/datasets/iamsouravbanerjee/students-social-media-addiction
