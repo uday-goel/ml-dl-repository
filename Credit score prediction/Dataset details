@@ -1,0 +1,25 @@
+Dataset Details:
+
+The project uses a Credit Score Prediction Dataset, designed to train machine learning models to classify individuals into credit score categories.
+It consists of structured tabular data collected from various individuals, each represented by multiple financial and demographic attributes.
+Each entry includes features such as:
+
+Age
+⦁	Occupation
+⦁	Monthly Income
+⦁	Number of Bank Accounts
+⦁	Number of Credit Cards
+⦁	Interest Rate
+⦁	Average Number of Days Delayed
+⦁	Credit Mix
+⦁	Outstanding Debt
+⦁	Credit History Age
+⦁	Monthly Balance
+⦁	Credit Score (target variable with classes: Poor, Standard, Good)
+
+This results in:
+Total records: 10,000 entries (approximately)
+Total features: 17 columns including the target
+Target distribution: Multiclass classification (Poor, Standard, Good)
+
+DataSet Link - https://www.kaggle.com/datasets/parisrohan/credit-score-classification
